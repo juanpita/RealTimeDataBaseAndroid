@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752428081823",
+    "firebase_url": "https://realtimedatabase-8d7e2.firebaseio.com",
+    "project_id": "realtimedatabase-8d7e2",
+    "storage_bucket": "realtimedatabase-8d7e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752428081823:android:693b78f0ee7a5e53",
+        "android_client_info": {
+          "package_name": "multiplica.com.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752428081823-q79ecl5kuhu77eqgi4kr64eacc0gk34k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5A5j73gbeSTy0fvlF1P6s3r02ZnHlVqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752428081823-q79ecl5kuhu77eqgi4kr64eacc0gk34k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
